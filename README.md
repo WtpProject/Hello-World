@@ -1,1 +1,5 @@
-# Hello-World
+# Hello-Word
+#include<stdio.h>
+int main(){
+printf("Hello, World");
+}
